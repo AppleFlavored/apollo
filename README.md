@@ -1,5 +1,5 @@
 # Apollo for Minestom
-This is an implementation of Lunar Client's Apollo API for Minestom.
+This is an implementation of Lunar Client's [Apollo API](https://github.com/LunarClient/Apollo) for Minestom.
 
 ## Usage
 ```java
