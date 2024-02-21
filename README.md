@@ -2,7 +2,7 @@
 This is an implementation of Lunar Client's [Apollo API](https://github.com/LunarClient/Apollo) for Minestom.
 
 ## Usage
-Add the repository to your `build.gradle.kts` file:
+Add the following repositories to your `build.gradle.kts` file:
 ```kotlin
 repositories {
     mavenCentral()
@@ -11,7 +11,7 @@ repositories {
 }
 ```
 
-Add the dependency to your `build.gradle.kts` file:
+Add the following dependency to your `build.gradle.kts` file:
 ```kotlin
 dependencies {
     implementation("dev.flavored:apollo:0.1.0")
