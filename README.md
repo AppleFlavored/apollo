@@ -2,6 +2,23 @@
 This is an implementation of Lunar Client's [Apollo API](https://github.com/LunarClient/Apollo) for Minestom.
 
 ## Usage
+Add the repository to your `build.gradle.kts` file:
+```kotlin
+repositories {
+    mavenCentral()
+    maven("https://jitpack.io")
+    maven("https://repo.lunarclient.dev")
+}
+```
+
+Add the dependency to your `build.gradle.kts` file:
+```kotlin
+dependencies {
+    implementation("dev.flavored:apollo:0.1.0")
+}
+```
+
+Finally, initialize Apollo:
 ```java
 ApolloMinestomPlatform.init();
 ```
