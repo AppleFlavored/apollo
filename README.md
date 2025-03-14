@@ -23,5 +23,9 @@ Finally, initialize Apollo:
 ApolloMinestomPlatform.init();
 ```
 
+## Requests
+This library is not uploaded regularly. Please [create an issue](https://github.com/AppleFlavored/apollo/issues)
+if you wish for me to update this library to the latest version.
+
 ## License
 The source code in this repository is licensed under the MIT license. See [LICENSE](LICENSE) for more details.
