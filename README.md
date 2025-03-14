@@ -23,7 +23,7 @@ Finally, initialize Apollo:
 ApolloMinestomPlatform.init();
 ```
 
-## Requests
+## Outdated Version?
 This library is not uploaded regularly. Please [create an issue](https://github.com/AppleFlavored/apollo/issues)
 if you wish for me to update this library to the latest version.
 
